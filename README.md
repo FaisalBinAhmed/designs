@@ -9,4 +9,4 @@ This repo contains all the app icons I designed and their source files.
 
 ![Trilby Icon](/icons/trilby.png "Trilby Icon")
 
-![MetroAppSauce Icon](/icons/metroappsauce.png "MetroAppSauce Icon")
+![MetroAppSauce Icon](/icons/metroappsauce.svg "MetroAppSauce Icon")
